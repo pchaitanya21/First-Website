@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0px;
+  /* is this req */
+}
+
+h1 {
+  color:#66BFBF;
+  font-size:5.625rem;
+  margin-top: 0;
+  font-family:'Sacramento', cursive;
+}
+h2{
+  color:#66BFBF;
+  font-size:2.5rem;
+  font-weight:normal;
+  font-family: 'Aclonica', sans-serif;
+}
+
+h3{
+  color:#66BFBF;
+  font-family: 'Patrick Hand', cursive;
+}
+p{
+   font-family: 'El Messiri', sans-serif;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {
+  margin: 0;
+}
+
+
+.middle-container{
+  background-color:#4b8e8d;
+}
+
+
+.bottom-container{
+  background-color:#4b8e8d;
+}
+.pro{
+  text-decoration: underline;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+
+
+}
+
+.boi{
+
+
+}
+
+.fatboi{
+
+}
